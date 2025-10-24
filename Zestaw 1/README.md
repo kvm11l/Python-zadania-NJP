@@ -1,5 +1,5 @@
 ## Plik główny
-**`Kamil_Połacik_Zestaw1.ipynb`** - Notebook Jupyter zawierający wszystkie 6 zadań w formie komórek kodu z wynikami.
+**`Kamil_Połacik_Zestaw1.ipynb`** - Jupyter Notebook zawierający wszystkie 6 zadań w formie komórek kodu z wynikami.
 
 ### Zadanie 1 (`Zestaw1_zadanie1.py`) 
 **Prędkość dodawania elementów do tablicy**  
